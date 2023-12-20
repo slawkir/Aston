@@ -1,5 +1,4 @@
 //Составить алгоритм: на входе есть числовой массив, необходимо вывести элементы массива кратные 3
-import java.util.Scanner;
 
 public class Program {
     public static void main(String[] args) {
